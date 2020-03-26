@@ -1,2 +1,2 @@
 # temporal-cnn-experiments
-The one with some experiments with TCN for forecasting time-series 
+How good is TCN at predicting Time Series 
